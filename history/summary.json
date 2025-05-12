@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.netflix.com.ico",
     "slug": "netflix",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1052,
-    "timeDay": 1438,
-    "timeWeek": 1168,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1038,
+    "timeDay": 799,
+    "timeWeek": 1178,
+    "timeMonth": 1038,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-05-08": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 592,
-    "timeWeek": 707,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "time": 643,
+    "timeDay": 575,
+    "timeWeek": 708,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   }
 ]
