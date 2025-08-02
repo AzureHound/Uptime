@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/azurehound.github.io.ico",
     "slug": "site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.58%",
+    "uptimeDay": "29.14%",
+    "uptimeWeek": "89.88%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "98.58%",
     "time": 144,
-    "timeDay": 182,
-    "timeWeek": 118,
-    "timeMonth": 117,
+    "timeDay": 157,
+    "timeWeek": 123,
+    "timeMonth": 119,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-01": 0
+      "2025-08-02": 85,
+      "2025-08-01": 936
     }
   }
 ]
