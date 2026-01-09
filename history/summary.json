@@ -1,24 +1,20 @@
 [
   {
-    "name": "Site",
-    "url": "https://azurehound.github.io/site/",
+    "name": "Startpage",
+    "url": "https://azurehound.github.io/Startpage/",
     "icon": "https://icons.duckduckgo.com/ip3/azurehound.github.io.ico",
-    "slug": "site",
-    "status": "down",
-    "uptime": "99.04%",
+    "slug": "startpage",
+    "status": "up",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
-    "time": 140,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 140,
-    "dailyMinutesDown": {
-      "2025-08-03": 523,
-      "2025-08-02": 1440,
-      "2025-08-01": 936
-    }
+    "uptimeYear": "100.00%",
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
+    "dailyMinutesDown": {}
   }
 ]
